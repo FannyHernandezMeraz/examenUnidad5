@@ -1,13 +1,14 @@
-# examenUnidad5
-Examen de la Unidad 5 - Administracion de Bases de Datos
+# RedisVideo
 
-Nombre del proyecto: 
+**Integrantes del equipo:**
++ Borunda Pineda Flor Daniela
++ García Molina Naomi Regina
++ Hernández Meraz Estefanía
++ Murillo Andrade Sebastian Emilio
++ Rodríguez Barrón Héctor Alejandro
 
-Equipo Redis:
-- Sebastian Emilio Murillo Andrade
-- Flor Daniela Borunda Pinea
-- Hector Alejandro Rodriguez Barron
-- Naomi Regina Garcia Molina
-- Estefania Hernandez Meraz
-
-Tecnologia utilizada: 
+**Tecnologías utilizadas:**
++ PHP
++ HTML
++ CSS
++ MySQL
